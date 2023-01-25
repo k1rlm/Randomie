@@ -15,8 +15,3 @@ if person_type == "fractional" or "Fractional" or "FRACTIONAL":
     print(frac_output)
 else:
     print("Please type a kind of a number correctly(Without any extra characters). Restart the script.")
-
-
-
-
-
