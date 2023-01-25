@@ -2,7 +2,6 @@
 # This is the simple script that generate random numbers
 # Just choose a size of number, its type (integer or fractional) and this script will automatically generate a random number
 
-#!/usr/bin/python
 import random
 
 person_type = (input("Type a kind of a number - integer or fractional: "))
